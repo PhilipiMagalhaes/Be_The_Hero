@@ -5,8 +5,10 @@
     "\\frontend\\public",
     "\\frontend\\src",
     "\\frontend\\src\\pages",
-    "\\frontend\\src\\pages\\Register"
+    "\\frontend\\src\\pages\\Logon",
+    "\\frontend\\src\\pages\\NewIncident",
+    "\\frontend\\src\\pages\\Profile"
   ],
-  "SelectedNode": "\\frontend\\src\\pages\\Register\\index.js",
+  "SelectedNode": "\\frontend\\src\\pages\\Profile\\index.js",
   "PreviewInSolutionExplorer": false
 }
