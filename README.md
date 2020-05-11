@@ -3,6 +3,14 @@
 
 Projeto construido com Node.js, React e React Nactive! ⚛
 
+### Algumas tecnologias utilizadas:
+- Expo
+- Express
+- Nodemon
+- Axios
+- Cors
+- SQLite
+
 ## Screenshots:
 - Web 🌐
 
