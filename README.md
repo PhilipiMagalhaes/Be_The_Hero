@@ -1,7 +1,7 @@
 ![BeTheHero](https://raw.githubusercontent.com/PhilipiMagalhaes/Be_The_Hero/9bb02e07ec1c913e857646016c2cf8b328bd8d70/frontend/src/assets/logo.svg)!
 # Seja o herói do dia, ajude uma ong!
 
-Projeto construido com Node.js, React e React Nactive! ⚛
+Projeto construido com Node.js, React e React Native! ⚛
 
 ### Algumas tecnologias utilizadas:
 - Expo
